@@ -1,5 +1,5 @@
 # desafio_cowala
-Repositorio para desafios do cowala softare
+Repositorio para desafios do cowala software
 
 Na pasta algoritimos está os 5 desafios: 
 fibonacci.js, 
