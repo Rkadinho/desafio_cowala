@@ -22,7 +22,7 @@ verificar somente um produto por id,
 
 e remover produto
 
-![image](https://user-images.githubusercontent.com/74570772/150713541-99b42354-39ec-41ac-a1b1-32a76a61a2b4.png)
+![image](https://user-images.githubusercontent.com/74570772/150714338-73ceddf2-845b-4e37-aa70-25f84c69cf6a.png)
 
 lista de conversão de moedas feito com node.js + mongoDb utilizando informações da api externa
 com função de 
@@ -35,9 +35,9 @@ verificar somente um valor por id,
 
 e remover valores
 
-![image](https://user-images.githubusercontent.com/74570772/150713662-65841542-cb8b-437a-9772-7fa7a685a3b4.png)
+![image](https://user-images.githubusercontent.com/74570772/150714307-c9234f88-ab00-4d61-9258-01f01f69b457.png)
 
 
 e na pasta front-end está o desafio feito com react.js e utilizando api externa para encontrar o ip
-![image](https://user-images.githubusercontent.com/74570772/150713846-ffc0924e-4ce8-4a2a-8e64-04fd53fc0203.png)
+![image](https://user-images.githubusercontent.com/74570772/150714286-61483c4b-c4dc-4034-bcef-a67387bd4833.png)
 
