@@ -11,11 +11,17 @@ molduras.js
 Na pasta back-end ta o desafio: 
 Lista de mercado feito com node.js + mongoDb
 com função de 
-adicionar produto, 
+
+adicionar produto,
+
 atualizar preço, 
+
 verificar todos os produtos, 
+
 verificar somente um produto por id,
+
 e remover produto
+
 ![image](https://user-images.githubusercontent.com/74570772/150713541-99b42354-39ec-41ac-a1b1-32a76a61a2b4.png)
 
 lista de conversão de moedas feito com node.js + mongoDb utilizando informações da api externa
