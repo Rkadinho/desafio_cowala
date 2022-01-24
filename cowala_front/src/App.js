@@ -37,7 +37,6 @@ function App() {
     setIP(res.data)
   }
 
-  console.log(valores)
   return (
     <div className="App">
       <header className="App-header">
